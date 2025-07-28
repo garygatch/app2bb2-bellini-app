@@ -6,13 +6,34 @@
     {
       "name": "h3",
       "nodeName": "h3",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "NzX2Az"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
       "children": [
         {
           "name": "text",
           "nodeName": "text",
-          "textContent": "PAGE 1"
+          "textContent": "PAGE 1 - Modified",
+          "evaluate": false
         }
-      ]
+      ],
+      "comments": ""
     }
   ],
   "variables": [],
